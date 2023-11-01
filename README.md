@@ -1,4 +1,4 @@
-# 망간 농도 예측(수정중)
+# 망간 농도 예측
 ### 망간예측 표준모델개발
     
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Taewha-Water-Level-Predict.git/HEAD) 
