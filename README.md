@@ -1,7 +1,7 @@
 # 망간 농도 예측
 ### 망간예측 표준모델개발
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Manganese-Quality-Predict/HEAD) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Manganese-Quality-Predict.git/HEAD) 
 ## 1. 목적
 ![주요 취수원의 원수 망간 농도 그림](https://github.com/gapple95/Manganese-Quality-Predict/assets/50596733/5cf793e7-82ef-425c-b2de-f7716c304a76)
   - 광역 취수원 전체에서 망간이 검출
